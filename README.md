@@ -59,7 +59,7 @@ If you passed this stage, move on to the next part of the lab by moving the entr
 ## question 4: AutoLayout Intro ##
 ![alt text](/README-images/autolayout.png)
 
-CalCentral is developing an iOS application for their beloved platform, but they've encountered a bug and need your help. For some reason, the Table View to display classes to add is misaligned! It looks good in the storyboard, but if you run it on a simulator it's off-center. We care about good design in this class, so let's set some constraints to make this look better!
+CalCentral is developing an iOS application for their beloved platform, but they've encountered a bug and need your help. For some reason, the Table View to display classes is misaligned! It looks good in the storyboard, but if you run it on a simulator it's all messed up. We care about good design in this class, so let's set some constraints to make this look better!
 
 Create constraints for the TableView object so that it looks like the image above (centered horizontally, equal widths to the screen and 20 points from the top layout guide). 
 
