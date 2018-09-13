@@ -7,8 +7,8 @@ There are three problems you'll be solving in this lab.
 
 1. Defining Variables
 2. Working with Optionals
-3. View Controller Lifecycle + Breakpoints
-4. Using the Debugger
+3. Linking View Controllers
+4. Autolayout Intro
 
 Each time you finish a problem, open the storyboard, drag the entry point to the next view controller representing the next problem. 
 
