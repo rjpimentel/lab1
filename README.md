@@ -64,4 +64,4 @@ CalCentral is developing an iOS application for their beloved platform, but they
 Create constraints for the TableView object so that it looks like the image above (centered horizontally, equal widths to the screen and 20 points from the top layout guide). 
 
 ## check-off ##
-Once you've finished the lab, you can check-off using this form https://goo.gl/forms/QiqaHQvm8pTr6HVi2. If you weren't able to finish before 8pm, make sure to let a TA know you attended (do not fill out the google form), and be sure to check-off next week at the beginning of lab.
+Once you've finished the lab, you can check-off using this form https://goo.gl/forms/jl5Tk4R0YlU5W74c2. If you weren't able to finish before 8pm, make sure to let a TA know you attended (do not fill out the google form), and be sure to check-off next week at the beginning of lab.
