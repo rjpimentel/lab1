@@ -18,9 +18,7 @@ For example, after problem 1, there will be a view marked "2" at the top right. 
 
 ## Getting Started 
 
-To begin this lab, clone this repository onto your own computer:
-	
-	git clone https://github.com/iosdecal/ios-decal-lab1
+To begin this lab, clone this repository onto your own computer (git clone <URL LINK IN YOUR BROWSER>)
 
 Once you've donwloaded the files onto your computer, open up the file **XcodeTour.xcodeproj**. If you've downloaded Xcode already, this will open up your project.
 
